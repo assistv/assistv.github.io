@@ -1,12 +1,5 @@
 # AssisTV
 
-In Ireland 1 in 3 people over the age of 65 live alone and 60% of the same age demographic have at least one chronic disease or disorder. The global population is aging, with an expected global population of 1 billion over 65s by 2030. With few technological advancements catered towards the elderly, our elders are being left behind in a technical age, causing isolation and a societal disconnect. The increasing costs of care affects those who cannot afford it the most. Lack of appropriate care and loneliness has proven to have detrimental effects on health and cognitive abilities.
-We are developing a product, with the support of the Irish charity, ALONE, to help elderly people integrate into the community and live more independently at home, in an effort to improve the everyday life of the aging population.
-
-
-
-
-
 You can use the [editor on GitHub](https://github.com/assistv/assistv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -33,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![Image](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/09/howtobealone1.jpg?fit=600%2C315&ssl=1)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

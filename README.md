@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![Image](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2014/09/howtobealone1.jpg?fit=600%2C315&ssl=1)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
